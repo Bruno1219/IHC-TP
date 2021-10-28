@@ -1,0 +1,25 @@
+body{
+    background-color:White ;
+    Color: Black;
+}
+p{
+    background-color:White ;
+    Color: Black;
+    font-family:Arial ;
+}
+h1{
+    font-family: Calibri;
+}
+strong{
+    background-color:Black ;
+    Color:white;
+    padding: 5px;
+    font-family: Roboto Thin;
+}
+.Black{
+    background-color:Black ;
+    Color:white;
+
+
+    font-family: Roboto Thin;
+}
