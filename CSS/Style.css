@@ -5,10 +5,22 @@ body{
 p{
     background-color:White ;
     Color: Black;
-    font-family:Arial ;
+    font-family:Arial;
+
 }
-h1{
-    font-family: Calibri;
+.busqueda{
+    background: #E5E5E5;
+    font-family: Sanchez;
+    font-style: normal;
+    height: 68px;
+
+}
+
+.grand-text{
+    font-size: 64px;
+    font-family: Sanchez;
+
+    line-height: 82px;
 }
 strong{
     background-color:Black ;
@@ -19,7 +31,44 @@ strong{
 .Black{
     background-color:Black ;
     Color:white;
-
+    text-align: center;
+    padding: 0px;
 
     font-family: Roboto Thin;
+}
+.central{
+
+    text-align: center;
+    padding: 0px;
+
+    font-family: Roboto Thin;
+}
+.Frame2{
+text-align: center;
+color: white;
+position: absolute;
+width: 557px;
+height: 768px;
+left: 809px;
+top: 59px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 33px;
+    text-align: center;
+
+background: #242424;}
+.Frame1{
+    position: relative;
+    width: 809px;
+    height: 768px;
+
+
+}
+footer{
+    background: #6A6666;
+    font-family: Roboto;
+    box-sizing: border-box;
 }
